@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.8](https://github.com/umtdlgc/version-control/compare/v0.3.7...v0.3.8) (2023-07-09)
+
+
+### Features
+
+* sss ([9723008](https://github.com/umtdlgc/version-control/commit/9723008b1fe2d1c5d0016b6f0bddd28bd9e59374))
+
 ### [0.3.7](https://github.com/umtdlgc/version-control/compare/v0.3.6...v0.3.7) (2023-07-09)
 
 ### [0.3.6](https://github.com/umtdlgc/version-control/compare/v0.3.5...v0.3.6) (2023-07-09)
